@@ -1,4 +1,4 @@
-👋 Hi, I’m @DiveIntoInfinity
+👋 Hi, I’m Abhinavpreet Singh
 
 👀 I am interested in coding, currently focusing on web and app development, and working on my website. In the future, I aim to build a robust and high-performance operating system.
 
